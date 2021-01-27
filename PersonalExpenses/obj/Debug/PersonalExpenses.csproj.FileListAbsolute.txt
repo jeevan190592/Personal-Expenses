@@ -1,0 +1,42 @@
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\bin\Debug\PersonalExpenses.exe.config
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\bin\Debug\PersonalExpenses.exe
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\bin\Debug\PersonalExpenses.pdb
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\PersonalExpenses.csprojAssemblyReference.cache
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\MainWindow.g.cs
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\App.g.cs
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\PersonalExpenses_MarkupCompile.cache
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\PersonalExpenses_MarkupCompile.lref
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\MainWindow.baml
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\PersonalExpenses.g.resources
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\PersonalExpenses.Properties.Resources.resources
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\PersonalExpenses.csproj.GenerateResource.cache
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\PersonalExpenses.csproj.CoreCompileInputs.cache
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\PersonalExpenses.exe
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses\PersonalExpenses\obj\Debug\PersonalExpenses.pdb
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\bin\Debug\PersonalExpenses.exe.config
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\bin\Debug\PersonalExpenses.exe
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\bin\Debug\PersonalExpenses.pdb
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses.csprojAssemblyReference.cache
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\MainWindow.g.cs
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\App.g.cs
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses_MarkupCompile.cache
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses_MarkupCompile.lref
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\MainWindow.baml
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses.g.resources
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses.Properties.Resources.resources
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses.csproj.GenerateResource.cache
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses.csproj.CoreCompileInputs.cache
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses.exe
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses.pdb
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\bin\Debug\Newtonsoft.Json.dll
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\bin\Debug\Newtonsoft.Json.xml
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses.csproj.CopyComplete
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\bin\Debug\ar\PersonalExpenses.resources.dll
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\bin\Debug\de\PersonalExpenses.resources.dll
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses.Properties.Resources.ar.resources
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\PersonalExpenses.Properties.Resources.de.resources
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\ar\PersonalExpenses.resources.dll
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\obj\Debug\de\PersonalExpenses.resources.dll
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\bin\Debug\Syncfusion.Licensing.dll
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\bin\Debug\Syncfusion.SfChart.WPF.dll
+D:\SRH_HOCHSCHULE_HEIDELBERG\9. ACS\MY PROJECT\PersonalExpenses jee\PersonalExpenses\bin\Debug\Syncfusion.SfChart.WPF.xml
